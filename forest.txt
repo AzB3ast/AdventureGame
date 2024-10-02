@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "A serene forest stretches endlessly with towering trees, dappled sunlight filtering through the dense canopy, and the air thick with the scent of moss and earth, while a gentle breeze rustles the leaves above."

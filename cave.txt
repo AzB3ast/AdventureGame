@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "A hidden cave lies nestled at the base of a towering, moss-covered cliff, its dark, jagged entrance framed by vines and the faint echo of dripping water within."
