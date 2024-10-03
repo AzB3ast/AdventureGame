@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo "A majestic stone castle perched atop a rugged hill overlooks a tranquil, mist-covered valley, surrounded by dense forests and a winding river below."
